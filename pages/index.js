@@ -14,7 +14,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Bartlett</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="https://ih1.redbubble.net/image.4569252647.6787/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" />
       </Head>
     
       <Footer />
